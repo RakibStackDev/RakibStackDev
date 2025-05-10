@@ -42,9 +42,9 @@ I specialize in creating responsive and user-friendly web applications. My goal 
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 📧 Email: [rakibstackdev@gmail.com](mailto:your.email@example.com)
+- 🌐 Portfolio: [https://portolio-sand.vercel.app/](https://your-portfolio-link.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/muhammad-rakib-52b23a2a4/](https://linkedin.com/in/yourusername)
 - 📘 Facebook: [facebook.com/Rakib.Stack](https://www.facebook.com/Rakib.Stack)
 
 ---
